@@ -24,7 +24,7 @@ Bu proje, kullanıcının girdiği bir URL'nin güvenli olup olmadığını kont
 ## Nasıl Kullanılır?
 
 1. İndirilen dosyaları bir sunucuya veya web sunucusuna yükleyin.
-2. `index.html` dosyasını açın.
+2. `index.php` dosyasını açın.
 3. URL giriş alanına kontrol etmek istediğiniz web sitesinin URL'sini girin.
 4. "Kontrol Et" düğmesine tıklayın.
 5. Kontrol sonuçları sayfada görüntülenecektir.
