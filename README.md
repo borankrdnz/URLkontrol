@@ -43,4 +43,4 @@ Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICEN
 
 ---
 
-Bu proje [GitHub](https://github.com) üzerinde barındırılmaktadır. Daha fazla bilgi için [proje deposuna](https://github.com/borankrdnz/URLkontrol) göz atabilirsiniz.
+Bu proje [Boran Karadeniz](https://borankaradeniz.com) tarafından geliştirilmiştir. Daha fazla bilgi için [proje deposuna](https://github.com/borankrdnz/URLkontrol) göz atabilirsiniz.
