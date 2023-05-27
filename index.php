@@ -113,7 +113,7 @@
             <div class="col">
                 <?php
                     // Virustotal API anahtarınızı buraya ekleyin
-                    $virustotal_api_key = 'f436d1d921eec4c8f3666395fbcde68e5f25788262fd8eb8ad93af9213a99943';
+                    $virustotal_api_key = 'BURAYA API KEY EKLEYİN';
 
                     // Fonksiyon ve değişkenlerin tanımlanması
                     function checkSSL($url) {
@@ -378,7 +378,7 @@ echo "Toplam Kontrol Edilen URL Sayısı: " . $toplamURLSayisi;
                 <input type="text" name="url" class="form-control" placeholder="Web sitesi URL'sini girin" required>
                 <button type="submit" class="btn-danger" id="submit-button" disabled><i class="fa fa-stop"></i> Kontrol Et</button>
             </div>
-            <div class="g-recaptcha mt-3" data-sitekey="6LceHUImAAAAAEMPOdHevFlxtGKcq0_PPwRawE9i" data-callback="enableButton"></div>
+            <div class="g-recaptcha mt-3" data-sitekey="BURAYA GOOGLE SİTE KEY EKLEYİN" data-callback="enableButton"></div>
         </form>
     </div>
 </body>
